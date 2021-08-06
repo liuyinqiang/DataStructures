@@ -1,4 +1,4 @@
-package com.lyq;
+package com.lyq.sparsearray;
 
 /**
  * 稀疏数组
