@@ -44,6 +44,8 @@ public class ArrayStackDemo {
         }
         System.out.println("程序退出。");
     }
+
+
 }
 
 
