@@ -33,7 +33,7 @@ public class MiGong {
         setway(map,1,1);
 
         //打印地图
-        System.out.println("招路后，地图：");
+        System.out.println("找路后，地图：");
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 7; j++) {
                 System.out.print(map[i][j] + " ");
